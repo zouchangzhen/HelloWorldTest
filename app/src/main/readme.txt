@@ -1,1 +1,1 @@
-简单的hello world Android studio 项目  xxxxx
+简单的hello world Android studio 项目
